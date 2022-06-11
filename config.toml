@@ -1,0 +1,91 @@
+baseURL = "https://www.karthikshivaram.com/"
+languageCode = "en-us"
+title = "Karthik Shivaram"
+theme = "cactus"
+copyright = "Karthik Shivaram"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 6
+
+[[menu.main]]
+name = "Presentations"
+url = "/presentations"
+weight = 5
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    pygmentsCodefences = true
+    style = "dracula"
+    # style = "monokai"
+    tabWidth = 4
+
+[params]
+
+colortheme = "white" # dark, light, white, or classic
+mainSection = "posts"
+mainSectionTitle = "Blog"
+mainSection2Title = "Presentations"
+mainSection3Title = "Publications"
+mainSection4Title = "About"
+mainSection2 = "presentations"
+mainSection3 = "publications"
+mainSection4 = "about"
+showAllPostsOnHomePage = true
+postsOnHomePage = 5
+description = "Hey all, just your friendly neighbourhood computer scientist here. I started this blog to act as a repository for the different research methods and techniques i come across."
+logo = "images/cool.gif"
+logo2 = "images/ghastly.gif"
+tagsOverview = true # show tags overview by default.
+showProjectsList = false # show projects list by default (if projects data file exists).
+projectsUrl = "https://github.com/karthikshivaram24" 
+css = ["css/custom.css"]
+mathjax=true
+# comments=falseabsURL
+
+# the value of name should be an valid font awesome icon name (brands type)
+# https://fontawesome.com/icons?d=gallery&s=brands
+[[params.social]]
+name = "github"
+link = "https://github.com/gohugoio"
+[[params.social]]
+name = "scholar"
+link = "https://scholar.google.com/citations?user=n0_djZcAAAAJ&hl=en&authuser=1&oi=ao"
+[[params.social]]
+name = "linkedin"
+link = "https://www.linkedin.com/in/karthik-shivaram/"
+[[params.social]]
+name = "email"
+link = "kshvaram@tulane.edu"  # no need for "mailto:" in the head
