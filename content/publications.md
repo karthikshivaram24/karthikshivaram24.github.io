@@ -30,7 +30,7 @@ date: 2021-12-03
 <a href="" style="color:blue">[Code]</a>
 <a href="" style="color:blue">[Data]</a>
 
-<img style="height: 800px; width: 900px; padding: 10px;" src="/images/network_architec.png"></img>
+<img style="height: 600px; width: 900px; padding: 10px;" src="/images/network_architec.png"></img>
 </div>
 </li>
 
