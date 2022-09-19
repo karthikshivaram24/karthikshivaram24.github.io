@@ -19,6 +19,23 @@ date: 2021-12-03
 
 <ol>
 
+
+<li>
+<div style="border:10px;"> 
+<strong><p>Reducing Cross-Topic Political Homogenization in Content-Based News Recommendation</p></strong>
+
+<b style="color:#e71d36">Shivaram, Karthik</b>, Ping Liu, Matthew Shapiro, Mustafa Bilgic, and Aron Culotta.<br>
+<i> In Proceedings of the 16th ACM Conference on Recommender Systems </i> (<strong>RecSys</strong>), 2022 (Acceptance Rate : 17%)<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3523227.3546782" style="color:blue">[PDF]</a>
+<a href="" style="color:blue">[Code]</a>
+<a href="" style="color:blue">[Data]</a>
+
+<img style="height: 300px; width: 900px; padding: 10px;" src="/images/network_architec.png"></img>
+</div>
+</li>
+
+
+
 <li>
 <div style="border:10px;"> 
 <strong><p>The Interaction between Political Typology and Filter Bubbles in News Recommendation Algorithms</p></strong>
